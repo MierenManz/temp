@@ -4,4 +4,4 @@
 - [ ] Works on MacOS*
 - [ ] Works on Windows*
 
-* May work but not tested
+\* May work but not tested
